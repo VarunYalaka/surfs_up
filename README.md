@@ -1,2 +1,2 @@
 # surfs_up
-Analyzing weather data using SQLite, VSCode and Python
+Analyzing weather data using SQLite, VSCode, Python and Flask
